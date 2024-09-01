@@ -1,0 +1,13 @@
+.hobbiesText {
+  color: rgb(4, 70, 86);
+  font-family: "Lucida Sans";
+  font-size: 18px;
+  font-style: italic;
+  text-align: right;
+}
+
+.hobbiesHeading {
+  color: rgb(2, 175, 219);
+  text-decoration: underline;
+  text-align: right;
+}
